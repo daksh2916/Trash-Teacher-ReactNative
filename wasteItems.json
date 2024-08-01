@@ -1,0 +1,39 @@
+{
+  "1": [
+      { "name": "Plastic Bottle", "bin": "hazardous", "img": "./assets/images/wasteimages/plastic_bottle.jpeg" },
+      { "name": "Paper", "bin": "biodegradable", "img": "./assets/images/wasteimages/paper.png" },
+      { "name": "Food Waste", "bin": "biodegradable", "img": "./assets/images/wasteimages/food_waste.jpg" },
+      { "name": "Aluminum Can", "bin": "biodegradable", "img": "./assets/images/wasteimages/glass_jar.jpg" },
+      { "name": "Cardboard", "bin": "biodegradable", "img": "./assets/images/wasteimages/cardboard.jpeg" },
+      { "name": "Glass Jar", "bin": "glass", "img": "./assets/images/wasteimages/glass_jar.jpg" }
+  ],
+  "2": [
+      { "name": "Glass Bottle", "bin": "glass", "img": "./assets/images/wasteimages/glass_bottle.jpg" },
+      { "name": "Needle", "bin": "infectious", "img": "./assets/images/wasteimages/needle.jpg" },
+      { "name": "Metal Scrap", "bin": "metal sharps", "img": "./assets/images/wasteimages/metal_scrap.jpg" },
+      { "name": "Broken Glass", "bin": "glass", "img": "./assets/images/wasteimages/broken_glass.jpeg" },
+      { "name": "Bleach", "bin": "hazardous", "img": "./assets/images/wasteimages/bleach.png" },
+      { "name": "Paper Towels", "bin": "biodegradable", "img": "./assets/images/wasteimages/paper_towels.jpg" }
+  ],
+  "3": [
+      { "name": "Used Bandages", "bin": "infectious", "img": "./assets/images/wasteimages/used_bandages.webp" },
+      { "name": "Disposable Gloves", "bin": "infectious", "img": "./assets/images/wasteimages/disposable_gloves.jpg" },
+      { "name": "Empty Syringe", "bin": "infectious", "img": "./assets/images/wasteimages/empty_syringe.jpg" },
+      { "name": "Blood Bags", "bin": "infectious", "img": "./assets/images/wasteimages/blood_bags.jpg" },
+      { "name": "Chemotherapy Waste", "bin": "hazardous", "img": "./assets/images/wasteimages/chemotherapy_waste.jpeg" },
+      { "name": "Biohazard Containers", "bin": "infectious", "img": "./assets/images/wasteimages/biohazard_containers.jpeg" }
+  ],
+  "4": [
+      { "name": "Expired Medication", "bin": "hazardous", "img": "./assets/images/wasteimages/expired_medication.jpg" },
+      { "name": "Plastic Wrappers", "bin": "hazardous", "img": "./assets/images/wasteimages/plastic_wrappers.webp" },
+      { "name": "X-Ray Films", "bin": "hazardous", "img": "./assets/images/wasteimages/x_ray_films.jpeg" },
+      { "name": "Empty IV Bags", "bin": "biodegradable", "img": "./assets/images/wasteimages/empty_iv_bags.jpeg" },
+      { "name": "Cardboard Boxes", "bin": "biodegradable", "img": "./assets/images/wasteimages/cardboard.jpeg" },
+      { "name": "Plastic Pill Bottles", "bin": "biodegradable", "img": "./assets/images/wasteimages/plastic_pill_bottles.webp" }
+  ],
+  "5": [
+      { "name": "Metal Surgical Tools", "bin": "metal sharps", "img": "./assets/images/wasteimages/metal_surgical_tools.png" },
+      { "name": "Rubber Tubing", "bin": "biodegradable", "img": "./assets/images/wasteimages/rubber_tubing.jpeg" },
+      { "name": "Disposable Masks", "bin": "infectious", "img": "./assets/images/wasteimages/disposable_masks.jpg" }
+  ]
+}
